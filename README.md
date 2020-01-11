@@ -4,6 +4,9 @@ This repository is a school project in my course of PDE at SDU - Odense.
 The subject is: Review Chorin’s method and simulate incompressible Navier-Stokes flow simulations around obstacles.
 This repository will show you some example of simulation using FEniCS.
 
+![cylinder](https://user-images.githubusercontent.com/43292684/72203804-fb944080-3470-11ea-8df0-875a9c93baf3.png)
+
+![gap](https://user-images.githubusercontent.com/43292684/72203812-1f578680-3471-11ea-9ee1-82657426f726.png)
 
 ## Installation
 
