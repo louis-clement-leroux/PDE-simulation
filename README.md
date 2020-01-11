@@ -41,7 +41,7 @@ However, I recommend you to use FEniCS on Anaconda:
     ```
 - Run scripts: 
     ```bash
-	ns_cylinder.py
+	python3 ns_cylinder.py
     ```
 As we are creating an animation using matplotlib, the program will save it in your folder.
 So visualize the animations, I recommend you to use ParaView.
